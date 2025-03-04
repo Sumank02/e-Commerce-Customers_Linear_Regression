@@ -32,6 +32,7 @@ Open the notebook in Jupyter:
 - Interpret the model’s performance using statistical metrics.
 
 __Data__
+
 The dataset used is Ecommerce Customers.csv. Ensure it is available in the working directory.
 
 __Contributing__
